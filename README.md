@@ -1,7 +1,7 @@
 # CapitalEventosApp
 Aplicación creada con el IDE Android Studio con Kotlin
 
-<h2>Se explica más a detalle en </h2>
+<h2>Se explica más a detalle en DaSCaP_Desarrollo_ProyectoPrimeraEntrega.pdf</h2>
 
 El objetivo del presente proyecto es crear una aplicación para dispositivos móviles con sistema operativo Android, que proporcione 
 una herramienta práctica para la solicitud y programación de 
