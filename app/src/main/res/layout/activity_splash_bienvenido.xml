@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!-- ____________________________________________
+            Universidad Nacional Autónoma de México
+            Facultad de Contaduría y Administración
+            Licenciatura en Informática
+
+            Programación de Dispositivos Móviles
+            Profesor: Hugo Díaz García
+            Grupo: 2696
+
+           Examen
+           Alumno: Silva Aguilar Daniel Omar
+    ___________________________________________________-->
+<!--Vista Splash de Bienvenida-->
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SplashBienvenidoActivity"
+    android:background="@color/colorFondo">
+
+    <ImageView
+        android:layout_width="400dp"
+        android:layout_height="400dp"
+        android:contentDescription="@string/cargando"
+        android:layout_marginTop="50dp"
+        android:src="@mipmap/logo"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:id="@+id/imagen" />
+
+    <ProgressBar
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        app:layout_constraintLeft_toLeftOf="parent"
+        app:layout_constraintRight_toRightOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/imagen"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+        style="@android:style/Widget.Holo.Light.ProgressBar.Horizontal"
+        android:id="@+id/barSplash" />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/cargando"
+        android:textAlignment="center"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="#87CFE3"
+        app:layout_constraintTop_toBottomOf="@id/barSplash"
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="40dp"
+        android:layout_marginEnd="40dp"
+
+        />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

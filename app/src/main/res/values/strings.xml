@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Capital Eventos</string>
+    <string name="bienvenido">Bienvenido</string>
+    <string name="menu1">Inicio</string>
+    <string name="menu2">Servicios</string>
+    <string name="menu3">Nosotros</string>
+    <string name="menu4">Contacto</string>
+    <string name="sub1">Empresariales</string>
+    <string name="sub2">Sociales</string>
+    <string name="sub3">Publicitarios</string>
+    <string name="nombre">Nombre</string>
+    <string name="correo">Correo electrónico</string>
+    <string name="comentarios">Comentarios</string>
+    <string name="marcar">Márcanos</string>
+    <string name="enviar">Enviar</string>
+
+    <string name="descripcion">img</string>
+    <string name="cargando">Cargando…</string>
+    <string name="nosotros">
+        Capital Eventos es una agencia de eventos sociales y promocionales, la cual se encarga de ofrecer un servicio de calidad, para que nuestros clientes logren un mayor impacto al realizar su promoción de ventas, ofreciéndole innovación, creatividad y sobre todo un trabajo excelente con el fin de que solamente disfrute de su evento y no se preocupe por nada.
+        \n
+        \n Somos especialistas en organización de eventos. Sabemos que tu único deseo es que todo salga a la perfección y justo eso es lo que mejor sabemos hacer.
+        \n
+        \n <b>¿Por qué elegirnos?</b>
+        \n
+        \n Tenemos opciones enfocadas a distintos tipos de eventos y de presupuestos, así mismo estamos convencidos de que la atención personalizada es el fundamento de una correcta organización, para esto cada uno de nuestros coordinadores es un experto en las disciplinas que involucran un evento, todos ellos con la capacidad de transformar un lugar común en un escenario sorprendente.
+    </string>
+
+    <string name="empresariales">
+        Estos servicios son importantes para el desarrollo de la economía nacional. Su competitividad puede ayudar a incrementar los ingresos de exportación de todos los sectores, como la contabilidad, la ingeniería, los servicios jurídicos, los servicios de informática, la investigación y desarrollo, el alquiler y leasing de equipos, y los servicios inmobiliarios.
+    </string>
+
+    <string name="sociales">
+        Especialistas en servicios de calidad para cualquier evento social que tengas en mente; bodas, XV años, fiestas de cumpleaños, etc. No dejes pasar esos días tan especiales sin festejarlo cómo se debe, estaremos emocionados por ayudarte. Queremos que tengas una experiencia inolvidable, por ello trabajamos para ser distintos a los demás.
+    </string>
+
+    <string name="publicitarios">
+        Crea un impresionante impacto visual a la vez que das a conocer lo más innovador de tu producto o servicio. ¡Elige la mejor opción para tu campaña publicitaria y atrae clientes! ¡Atrévete a romper los límites! Con anuncios espectaculares ubicados en zonas estratégicas podrás transmitir tu mensaje a un gran número de personas que circulan por las calles diariamente.
+    </string>
+
+</resources>
